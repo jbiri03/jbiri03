@@ -1,4 +1,7 @@
 # Hi, I’m Jasmine Biri 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 I’m a Software Engineering graduate and full-stack developer focused on building practical, user-friendly web applications. I enjoy working with backend systems, databases, deployment, and interactive web experiences.
 
