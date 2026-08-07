@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I’m Jasmine Biri 👋
 
-<!--
-**jbiri03/jbiri03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineering graduate and full-stack developer focused on building practical, user-friendly web applications. I enjoy working with backend systems, databases, deployment, and interactive web experiences.
 
-Here are some ideas to get you started:
+I’m currently seeking opportunities in junior full-stack, backend, or software development roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### [Taco Tom’s Lonchera](https://tacotomslonchera.com)
+
+A full-stack restaurant website with an online menu and a secure admin dashboard for managing menu items and images.
+
+**Tech:** JavaScript, Node.js, Express.js, MySQL, Cloudflare R2, Fly.io
+
+- [View Live Site](https://tacotomslonchera.com)
+- [View Repository](https://github.com/jbiri03/[replace-with-lonchera-repo-name])
+
+### [Cake Idle Clicker](https://idleclick-1.onrender.com/index.php)
+
+A browser-based idle clicker game featuring persistent account-based saves, upgrades, prestige, player reports, and a leaderboard.
+
+**Tech:** PHP, JavaScript, SQLite, Docker, Render
+
+- [Play the Game](https://idleclick-1.onrender.com/index.php)
+- [View Repository](https://github.com/jbiri03/idleClick)
+
+### [Personal Portfolio](https://jbiri03.github.io/portfolio/index.html)
+
+My personal portfolio website, featuring selected projects, project details, live demos, and contact information.
+
+**Tech:** HTML, CSS, JavaScript, GitHub Pages
+
+- [View Portfolio](https://jbiri03.github.io/portfolio/index.html)
+- [View Repository](https://github.com/jbiri03/portfolio)
+
+## Skills
+
+- **Languages:** JavaScript, PHP, Java, Python, SQL, HTML, CSS
+- **Backend:** Node.js, Express.js, REST APIs, authentication, session management
+- **Databases:** MySQL, SQLite
+- **Deployment & Tools:** Git, GitHub, Docker, Fly.io, Render, Cloudflare R2
+- **Interests:** Full-stack development, backend systems, cloud deployment, and game development
+
+## Connect
+
+- Portfolio: [jbiri03.github.io/portfolio](https://jbiri03.github.io/portfolio/index.html)
+- LinkedIn: [Jasmine Biri](https://www.linkedin.com/in/jasmine-biri-738559190)
+- Email: [jasminebiri03@gmail.com](mailto:jasminebiri03@gmail.com)
