@@ -35,13 +35,10 @@ My personal portfolio website, featuring selected projects, project details, liv
 - [View Portfolio](https://jbiri03.github.io/portfolio/index.html)
 - [View Repository](https://github.com/jbiri03/portfolio)
 
-## Skills
-
-- **Languages:** JavaScript, PHP, Java, Python, SQL, HTML, CSS
-- **Backend:** Node.js, Express.js, REST APIs, authentication, session management
-- **Databases:** MySQL, SQLite
-- **Deployment & Tools:** Git, GitHub, Docker, Fly.io, Render, Cloudflare R2
-- **Interests:** Full-stack development, backend systems, cloud deployment, and game development
+## 🛠 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,php,nodejs,express,mysql,sqlite,html,css,docker,git,github,python,java,cs,unity,blender,vscode&perline=8" />
+</p>
 
 ## Connect
 
