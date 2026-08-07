@@ -1,5 +1,7 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Jasmine%20Biri&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Graduate%20%7C%20Full-Stack%20Developer&descAlignY=68&descSize=18)
+
 # Hi, I’m Jasmine Biri 👋
-![header](https://capsule-render.vercel.app/api?type=slice)
+
 I’m a Software Engineering graduate and full-stack developer focused on building practical, user-friendly web applications. I enjoy working with backend systems, databases, deployment, and interactive web experiences.
 
 I’m currently seeking opportunities in junior full-stack, backend, or software development roles.
