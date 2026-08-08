@@ -60,3 +60,5 @@ My personal portfolio website, featuring selected projects, project details, liv
 - Portfolio: [jbiri03.github.io/portfolio](https://jbiri03.github.io/portfolio/index.html)
 - LinkedIn: [Jasmine Biri](https://www.linkedin.com/in/jasmine-biri-738559190)
 - Email: [jasminebiri03@gmail.com](mailto:jasminebiri03@gmail.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=130&section=footer)
